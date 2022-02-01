@@ -1,7 +1,7 @@
 # Tanks!
 **Introduction**
 
-[Play Tanks!](https://next.plnkr.co/plunk/C4ZLJ8gYxNDaJTQl)
+[Play Tanks!](https://ericlju.github.io/Tanks/)
 
 Tanks! is a mini-game where you search out and destroy enemy missile launching
 platforms before they launch their missile. Destroy enemy tanks while avoiding
